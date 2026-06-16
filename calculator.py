@@ -1,5 +1,5 @@
 #Calculator: asks for two numbers and then performs the necessary operations
-
+##Refactorial edit
 numbers_needed = []
 
 def machine():
